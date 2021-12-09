@@ -10,6 +10,7 @@ resulting tile cannot merge with another tile again in the same move. If a move 
 consecutive tiles of the same value to slide together, only the two tiles farthest along the
 
 direction of motion will combine. If all four spaces in a row or column are filled with tiles of the same value ,a move parallel to that row/column will combine the first two and last two.
+
 Based on the popular game 2048 by Gabriele Cirulli. The game's objective is to slide numbered tiles on a grid to combine them to create a tile with the number 2048. Here is a Python version that uses TKinter!
 <img width="682" alt="image" src="https://user-images.githubusercontent.com/88823628/145321973-d427b7e7-a1ab-4346-9c5b-879624fd701e.png">
 
