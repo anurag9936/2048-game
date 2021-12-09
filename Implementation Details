@@ -1,0 +1,5 @@
+Print 4*4 board on each turn in the console and wait for user input.This will initially have two cells populated at random with a 2 or 4.
+User will input 1,2,3,4 for left ,right,up and down movements.
+Program will then merge all the tiles in given directions and show the latest sums according to rules .
+next it should select a random empty location in tiles and place a 2 or 4
+Repeat steps 1-4 till one of the cell reaches 2048.
